@@ -1,0 +1,11 @@
+body{
+    color: rgb(128, 128, 128);
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+h3{
+    border-bottom: 3px solid rgb(126, 126, 126);
+    color: rgb(119, 119, 119);
+}
